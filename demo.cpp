@@ -20,6 +20,9 @@ int main() {
     //prints 125.4
     std::cout << a.add(b).toString() << std::endl;
 
+    //prints 1.414213562373095048801688724209698078569671875376948073176679737990732478462107038850387534327641573
+    std::cout << bSqrt(2).toString() << std::endl;
+
     return 0;
 
 
